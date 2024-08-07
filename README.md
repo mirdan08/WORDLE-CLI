@@ -1,5 +1,6 @@
 # WORDLE-CLI
-a simple CLI version of the popular game WORDLE in Java developed networking course for university
+a simple CLI version of the popular game WORDLE in Java developed networking course for university.
+---
 This project was done for the Networking and laboratory course at UNI
 it makes use of
 - GSON library
