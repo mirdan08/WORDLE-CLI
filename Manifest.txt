@@ -1,0 +1,2 @@
+Main-class: WORDLEServerMain
+Class-Path: gson-2.8.2.jar
